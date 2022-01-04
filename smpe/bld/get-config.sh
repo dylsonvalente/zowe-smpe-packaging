@@ -112,7 +112,7 @@ gimzip:
   # temporary directory holding config data & symlinks
   scratch=
   # Java home directory, for default, existing JAVA_HOME will be used if set
-  JAVA_HOME=
+  JAVA_HOME=C:/Program Files/Java/jdk-11.0.12/bin
   # SMP/ E home directory, for default, existing SMP_HOME will be used if set
   SMP_HOME=
   # IBM Developer for z Systems home directory, for default, existing IDZ_HOME will be used if set
